@@ -1,6 +1,6 @@
 ### Implementation of Concurrency Patterns in Go.
 
-#### Programming Exercices:
+#### Programming Exercises:
 
 - blocking channels
 - closing channels
